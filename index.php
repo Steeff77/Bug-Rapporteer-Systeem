@@ -60,7 +60,7 @@
                } 
                ?>
             <div class="succes">
-               Geef hieronder jou bug op
+               Geef hieronder jouw bug op
             </div>
             <div class="boxContent">
                <form action method="post">
